@@ -5,6 +5,8 @@ npm install hexo-cli -g
 
 cd blog
 
+npm install
+
 hexo server
 
 # 更改配置文件后, 需要清理后再 hexo s
