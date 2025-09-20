@@ -1,4 +1,4 @@
-# hexo
+# 测试
 
 ```bash
 npm install hexo-cli -g
@@ -12,6 +12,14 @@ hexo server
 # 更改配置文件后, 需要清理后再 hexo s
 hexo clean
 ```
+
+进入 blog 文件夹, 开始测试,
+
+直接修改 blog/node_modules/hexo-asset-img/index.js 调试
+
+blog/source/\_posts 编辑测试用例
+
+# hexo
 
 - [hexojs/hexo: A fast, simple & powerful blog framework, powered by Node.js.](https://github.com/hexojs/hexo)
 
