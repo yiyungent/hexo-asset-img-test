@@ -19,6 +19,8 @@ hexo clean
 
 blog/source/\_posts 编辑测试用例
 
+- https://github.com/yiyungent/hexo-asset-img-test
+
 # hexo
 
 - [hexojs/hexo: A fast, simple & powerful blog framework, powered by Node.js.](https://github.com/hexojs/hexo)
